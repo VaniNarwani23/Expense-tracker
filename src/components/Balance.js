@@ -1,5 +1,5 @@
 import React from 'react'
-
+import {GlobalContext} from '../context/GlobalState';
 const Balance = () => {
   return (
     <div>
