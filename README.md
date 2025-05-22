@@ -45,7 +45,7 @@ Clone the project and run it locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/VaniNarwani23/expense-tracker.git
 
 # Navigate into the folder
 cd expense-tracker
@@ -55,4 +55,33 @@ npm install
 
 # Start the development server
 npm start
+
+
+
+📘 Resources
+React Documentation
+
+Create React App Docs
+
+React Context API
+
+🧠 Ideas for Future Updates
+🌙 Dark mode support
+
+📊 Analytics charts
+
+🗑️ Delete/edit transactions
+
+🔒 User authentication
+
+☁️ Firebase integration
+
+🤝 Contributing
+Contributions are welcome!
+Fork the repo, make your changes, and submit a pull request.
+
+📄 License
+This project is licensed under the MIT License.
+
+<p align="center"> Built with 💙 by <a href="https://github.com/VaniNarwani23" target="_blank">Your Name</a> </p> ```
 
