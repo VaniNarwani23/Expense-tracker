@@ -12,7 +12,7 @@
 
 ## ✨ Live Preview
 
-> 🚀 **Coming Soon...** *(Or deploy it to Vercel/Netlify and add your link here)*
+> 🚀 **Coming Soon...
 
 ---
 
