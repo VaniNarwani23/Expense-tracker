@@ -18,7 +18,7 @@
 }
 
 body {
-  background: linear-gradient(135deg, #0d0d0d, #000000);
+    background-color: black;
    display: flex;
   align-items: center;
   justify-content: center;
