@@ -3,7 +3,8 @@
 <p align="center">A sleek and powerful web app to manage your daily income and expenses. Built with ❤️ using React.</p>
 
 <p align="center">
-  <img src=Screenshot 2025-05-22 153013](https://github.com/user-attachments/assets/00047708-ca04-4ed1-b2d9-af8abeaab86c) width="600"/>
+  <img src="https://github.com/user-attachments/assets/00047708-ca04-4ed1-b2d9-af8abeaab86c" alt="Screenshot 2025-05-22 153013" width="600" />
+ 
 </p>
 
 
