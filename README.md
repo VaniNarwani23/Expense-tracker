@@ -3,7 +3,7 @@
 <p align="center">A sleek and powerful web app to manage your daily income and expenses. Built with ❤️ using React.</p>
 
 <p align="center">
-  <img src=![image](https://github.com/user-attachments/assets/313ceee9-be9d-4463-bed6-21dd31703cce)
+  <img src="![image](https://github.com/user-attachments/assets/313ceee9-be9d-4463-bed6-21dd31703cce)"
  alt="Expense Tracker Screenshot" width="600"/>
 </p>
 
