@@ -43,7 +43,7 @@
 
 Clone the project and run it locally:
 
-```bash
+bash
 # Clone the repository
 git clone https://github.com/VaniNarwani23/expense-tracker.git
 
@@ -83,5 +83,5 @@ Fork the repo, make your changes, and submit a pull request.
 📄 License
 This project is licensed under the MIT License.
 
-<p align="center"> Built with 💙 by <a href="https://github.com/VaniNarwani23" target="_blank">Vani</a> </p> `
+<p align="center"> Built with 💙 by <a href="https://github.com/VaniNarwani23" target="_blank">Vani</a> </p> 
 
