@@ -83,5 +83,5 @@ Fork the repo, make your changes, and submit a pull request.
 📄 License
 This project is licensed under the MIT License.
 
-<p align="center"> Built with React  by <a href="https://github.com/VaniNarwani23" target="_blank">Vani</a> </p> 
+<p align="center"> Built using  React💙  by <a href="https://github.com/VaniNarwani23" target="_blank">Vani</a> </p> 
 
